@@ -5,7 +5,8 @@ const nextConfig = {
   images: {
     domains: [
       "ss.newdev0.in"]
-  }
+  },
+  pageExtensions: ["p.js"]
 }
 
 module.exports = nextConfig
